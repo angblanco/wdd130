@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+:root {
+    --primary color: #2F52E0;
+    --secondary color: #FF715B;
+    --accent1-color: #F9CB40;
+    --accent2-color: #BCED09;
+
+    --heading-font: '_________', serif;
+    --paragraph-font: '________', serif;
+    
+    --nav-background-color: #FF715B;
+    --nav-link-color: #F9CB40;
+    --nav-hover-link-color: #BCED09;
+    --nav-hover-background-color: #2F52E0;
+
+}
+
+body {
+    f_______:var(--paragraph-font);
+    m_____: _____;
+    p_____: _____;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--heading-font);
+    color: var(--primary-color);
+}
+
+header {
+    padding: 20px;
+    background-color: var(--accent1-color);
+}
+
+p {
+    padding: 25px;
+}
+
+nav {
+    background-color: var(--nav-background-color);
+    font-size: 1.2rem;
+    display: flex;
+}
+
+nav a {
+    display: block;
+    color: var(--nav-link-color);
+    text-decoration: none;
+    padding: 1rem;
+}
+
+nav a: link, nav a:visited {
+    color: var(--nav-hover-link-color);
+}
+
+nav a:hover {
+    color: var(--nav-hover-link-color);
+}
