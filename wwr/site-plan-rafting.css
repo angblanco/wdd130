@@ -2,14 +2,14 @@
 
 :root {
     --primary-color:var(--primary-color) #2F52E0;
-    --secondary-color:var(--accent1-color) #FF715B;
+    --secondary-color:var(--secondary-color) #FF715B;
     --accent1-color:var(--accent1-color) #F9CB40;
     --accent2-color:var(--accent2-color) #BCED09;
 
     --heading-font: '_________', serif;
     --paragraph-font: '________', serif;
     
-    --nav-background-color: #xxxxxx;
+    --nav-background-color: #2152e0;
     --nav-link-color: #xxxxxx;
     --nav-hover-link-color: #xxxxxx;
     --nav-hover-background-color: #xxxxxx;
@@ -17,9 +17,9 @@
 }
 
 body {
-    f_______:var(--paragraph-font);
-    m_____: _____;
-    p_____: _____;
+    font-family:var(--paragraph-font);
+    max-width: 960px;
+    padding: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
