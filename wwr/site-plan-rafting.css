@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 :root {
-    --primary color: #2F52E0;
-    --secondary color: #FF715B;
-    --accent1-color: #F9CB40;
-    --accent2-color: #BCED09;
+    --primary color: # 2F52E0
+    --secondary color: # FF715B;
+    --accent1-color: # F9CB40;
+    --accent2-color: # BCED09;
 
     --heading-font: '_________', serif;
     --paragraph-font: '________', serif;
     
-    --nav-background-color: #FF715B;
-    --nav-link-color: #F9CB40;
-    --nav-hover-link-color: #BCED09;
-    --nav-hover-background-color: #2F52E0;
+    --nav-background-color: #xxxxxx;
+    --nav-link-color: #xxxxxx;
+    --nav-hover-link-color: #xxxxxx;
+    --nav-hover-background-color: #xxxxxx;
 
 }
 
