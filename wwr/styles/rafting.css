@@ -35,7 +35,7 @@ nav {
     
 nav a {
     color: white;
-    padding: 1opx;
+    padding: 10px;
     display: block;
 
 }
@@ -46,7 +46,7 @@ h1 {
 }
 
 main {
-    max-width: 160;
+    max-width: 640;
     
 }
 
