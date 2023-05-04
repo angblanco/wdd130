@@ -1,83 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 :root {
---primary-color:var(--primary-color) #2F52E0;
---secondary-color:var(--secondary-color) #FF715B;
---acent1-color:var(--acent1-color) #F9CB40;
---acent2-color:var(--acent2-color) #BCED09;
+    --primary-color:var(--primary-color) #2f52e0;
+    --secondary-color:var(--secondary-color) #ff715b;
+    --acent1-color:var(--acent1-color) #f9cb40;
+    --acent2-color:var(--acent2-color) #bced09;
 
---heading-font: Roboto, serif;
---paragraph-font: Roboto, serif;
+    --heading-font: Roboto, serif;
+    --paragraph-font: Roboto, serif;
 
---nav-background-color: #2152e0;
---nav-link-color: #BCED09;
---nav-hover-link-color:#215250;
---nav-hover-background-color: #ffff;
+    --nav-background-color: #2152e0;
+    --nav-link-color: #bced09;
+    --nav-hover-link-color: #215250;
+    --nav-hover--background-color: #ffff;
 
-}
-
-
-body {
-    font-family: var(--paragraph-font);
-    max-width: 960px;
-    padding: 20px;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: var(--heading-font);
-    color: var(--primary-color);
-
-}
-
-header {
-    padding: 20px;
-    background-color: var(--acent1-color);
-}
-
-p {
-    padding: 25px;
-}
-
-nav a {
-    background-color: var(--nav-background-color);
-    font-size: 1.2rem;
-    display: flex;
-}
-
-nav a {
-    display: block;
-    color: var(--nav-link-color);
-    text-decoration: none;
-    padding: 1rem;
-}
-
-nav a:link, nav a:visited {
-    color: var(--nav-link-color);
-}
-
-nav a:hover {
-    color: var(--nav-hover-link-color);
-    background-color: var(--nav-hover-background-color);
-}
-
-h1 {
-    color: steelblue;
-}
-
-main {
-    max-width: 640px;
-}
-
-.hero img {
-    display: block;
-    width: 100%;
-    height: auto;
-}
-
-p {
-    margin: 1rem;
 }
 
 .links {
-    text-decoration: none;
+    box-decoration-break: none;
 }
+
+
+body [
+
+]
