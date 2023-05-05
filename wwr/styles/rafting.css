@@ -19,8 +19,13 @@
     }
 
     body {
-        font-family: ;
+        font-family: var(--paragraph-font);
+        min-width: 960px;
+        padding: 20px;
     }
 
-
+header {
+    padding: 20px;
+    background-color: var(--acent1-color);
+}
 
