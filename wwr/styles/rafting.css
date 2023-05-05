@@ -74,6 +74,14 @@ nav a:hover {
     background-color: var(--nav-hover--background-color);
 }
 
+.sociallinks {
+    clear: right;
+}
+
+.links {
+    text-decoration: none;
+}
+
 h1 {
     color: steelblue;
     padding: 5rem;
@@ -124,15 +132,6 @@ footer {
     color: #000;
 }
 
-{
-    width: 100%;
+.indent {
+    padding-left: 2rem;
 }
-
-.sociallinks {
-    clear: right;
-}
-
-.links {
-    text-decoration: none;
-}
-    
