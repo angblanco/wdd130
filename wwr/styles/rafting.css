@@ -68,6 +68,11 @@ color: var(--nav-hover-link-color);
 background-color: var(--nav-hover--background-color);
 }
 
+nav a:hover {
+    color: var(--nav-hover-link-color);
+    background-color: var(--nav-hover--background-color);
+}
+
 h1 {
     color: steelblue;
     padding: 5rem;
