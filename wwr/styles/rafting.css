@@ -28,16 +28,20 @@ body {
 }
 
 
+h1, h2, h3, h4 h5,h6 {
+    font-family: var(--heading-font);
+    color: var(--acent1-color);
+}
 
 header {
-    position: relative;
-    width: 100%;
+
     padding: 20px;
     background-color: var(--acent1-color);
+   
 }
 
 p {
-    text-align: center;
+
     padding: 25px;
 }
 nav {
