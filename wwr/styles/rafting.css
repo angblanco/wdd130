@@ -70,13 +70,6 @@ nav a:hover {
     background-color: var(--nav-hover--background-color);
 }
 
-.sociallinks {
-    clear: right;
-}
-
-.links {
-    text-decoration: none;
-}
 
 h1 {
     color: steelblue;
