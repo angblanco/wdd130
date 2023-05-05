@@ -25,6 +25,11 @@
         margin: 0 auto;
     }
 
+    h1 {
+        font-size: var(--heading-font);
+        color: var(--primary-color);
+    }
+
     p {
         padding: 20px;
         
