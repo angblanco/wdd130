@@ -25,6 +25,10 @@
         margin: 0 auto;
     }
 
+    .info {
+        position: relative;
+    }
+
     .hero img {
         display: block;
         width: 100%;
@@ -38,7 +42,7 @@
  article img {
     width: 100%;
     position: absolute;
-    
+
  }   
 
   
