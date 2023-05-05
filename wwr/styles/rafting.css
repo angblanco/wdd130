@@ -22,8 +22,10 @@
 
 
 body {
-    font-size: 16px;
+    font-family: var(--paragraph-font);
     font-family: Roboto,Arial, sans-serif;
+    max-width: 960px;
+    padding: 20px;
 
 }
 
@@ -56,14 +58,23 @@ main {
     height: auto;
 }
 
+.info {
+    position: relative;
+    text-align: center;
+}
+
 p {
     margin: 1rem;
 }
 
-aside h2 {
-    position: relative;
-    top: 67px;
-    left: 150px;
+ h2 {
+    position: absolute;
+    top: 140px;
+    left: 0px;
+    right: 0;
+    color: #ffff;
+
+
 
 }
 
