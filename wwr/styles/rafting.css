@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
+
 :root {
     --primary-color:var(--primary-color) #2f52e0;
     --secondary-color:var(--secondary-color) #ff715b;
@@ -26,20 +27,45 @@ body {
     font-family: Roboto,Arial, sans-serif;
     max-width: 960px;
     padding: 20px;
+    margin: 0 auto;
 
 }
 
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    font-family: center;
+    color: var(--primary-color);
+}
+
+header {
+    position: relative;
+    width: 100%;
+    padding: 20px;
+    background-color: var(--acent1-color);
+}
+
+p {
+    text-align: center;
+    padding: 25px;
+}
 nav {
-    background-color: steelblue;
-    padding: 10px;
+    background-color: var(--nav-background-color);
+    font-size: 1.2rem;
+   display: flex;
 
 }
     
 nav a {
-    color: white;
-    padding: 10px;
     display: block;
+    color: var(--nav-link-color);
+    text-decoration: none;
+    padding: 1rem;
 
+}
+
+nav a:link, nav a :visited {
+color: var(--nav-hover-link-color);
+background-color: var(--nav-hover--background-color);
 }
 
 h1 {
