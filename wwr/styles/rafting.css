@@ -30,4 +30,12 @@
         background-color: var(--acent1-color);
     }
 
+    p {
+        padding: 25px;
 
+    }
+
+nav a {
+    background-color: var(--nav-background-color);
+    
+}
