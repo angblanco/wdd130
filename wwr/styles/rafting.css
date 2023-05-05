@@ -22,10 +22,6 @@
 
 }
 
-.links {
-    text-decoration: none;
-}
-
 
 body {
     font-family: var(--paragraph-font);
@@ -110,8 +106,6 @@ p {
     right: 0;
     color: #ffff;
 
-
-
 }
 
 footer {
@@ -133,3 +127,8 @@ article img {
 .sociallinks {
     clear: right;
 }
+
+.links {
+    text-decoration: none;
+}
+    
