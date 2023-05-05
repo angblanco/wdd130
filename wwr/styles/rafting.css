@@ -21,7 +21,6 @@
 
 body {
     font-family: var(--paragraph-font);
-    font-family: Roboto,Arial, sans-serif;
     max-width: 960px;
     padding: 20px;
     margin: 0 auto;
@@ -99,6 +98,16 @@ p {
     right: 0;
     color: #ffff;
 
+}
+
+main img {
+    width: 960;
+    height: auto;
+    border: 1px solid;
+    padding: 2px;
+    box-shadow: 0 0 30px;
+    float: right;
+    margin: 0 0 1rem 1rem;
 }
 
 aside {
