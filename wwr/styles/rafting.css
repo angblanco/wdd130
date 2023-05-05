@@ -22,7 +22,11 @@
         font-family: var(--paragraph-font);
         min-width: 960px;
         padding: 20px;
+        margin: 0 auto;
     }
 
+    header {
+        padding: 20px;
+    }
 
 
