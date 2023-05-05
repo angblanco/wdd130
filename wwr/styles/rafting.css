@@ -106,7 +106,7 @@ p {
     color: #ffff;
 
 
-
+    
 }
 
 footer {
@@ -117,14 +117,14 @@ footer {
 }
 
 /*Class Selectors*/
-.box {
-    margin: 1rem;
-    border: 1px solid rgb(0, 0, 0,.1);
-    padding: 1rem;
-    background-color: #eee;
-    color: #000;
+.hero-img img {
+    width: 100%;
 }
 
-.indent {
-    padding-left: 2rem;
+article img {
+    width: 100%;
+}
+
+.sociallinks {
+    clear: right;
 }
