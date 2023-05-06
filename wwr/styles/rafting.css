@@ -76,11 +76,13 @@
     width: 20em;
     text-align: center;
     position: relative;
+    
  }
 
 aside imag {
        width: 200px;
        height: auto;
+
 }
   
 */ Container holding the image and the text*/
@@ -88,4 +90,5 @@ aside imag {
     position: relative;
     text-align: center;
     color: white;
+
   }
