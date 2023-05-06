@@ -74,7 +74,9 @@
         height: auto;
     }
 
-
+article {
+    float: ;
+}
 
  aside {
     width: 20em;
@@ -96,7 +98,7 @@ aside h2 {
 
 }
   
-*/ Container holding the image and the text*/
+*/ Centered text*/
 .container {
     position: relative;
     text-align: center;
