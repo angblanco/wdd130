@@ -24,6 +24,13 @@
         padding: 20px;
         margin: 0 auto;
     }
+    
+    nav {
+        background-color: steelblue;
+        padding: 10px;
+
+    }
+
 
     .info {
         position: relative;
@@ -44,11 +51,7 @@
     position: absolute;
 
 
- }   
-
- /* Class Selectors*/
-
- .sociallinks {
-    clear: right;
  }
+
+ 
   
