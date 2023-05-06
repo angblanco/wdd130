@@ -20,7 +20,7 @@
 
     body {
         font-family: var(--paragraph-font);
-        min-width: 960px;
+        max-width: 960px;
         padding: 20px;
         margin: 0 auto;
     }
@@ -38,9 +38,21 @@
         padding: 1rem;
     }
 
+    body {
+        width: 450px;
+    }
 
     .info {
         position: relative;
+        text-align: center;
+    }
+
+    h2 {
+        position: absolute;
+        top: 140px;
+        left: 0;
+        right: 0;
+        color: #ffff;
     }
 
     .hero img {
