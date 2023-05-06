@@ -48,6 +48,10 @@
         float: right;
     }
 
+    h1 {
+        position: absolute;  
+    }
+
     h2 {
         position: absolute;
         top: 50px;
@@ -56,27 +60,18 @@
         color: #ffff;
     }
 
-    .hero img {
+    .hero {
+        margin: 10px auto;
+        position: relative;
+
+    }
+    .hero {
         display: block;
         width: 100%;
         height: auto;
     }
 
-    h1 {
-        position: absolute;
-    }
 
-.hero {
-    margin: 10px auto;
-    position: relative;
-
-}
-
- .hero img {
-    width: 100%;
-    position: absolute;
-
- }
 
  aside {
     width: 20em;
