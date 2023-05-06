@@ -76,12 +76,19 @@
     width: 20em;
     text-align: center;
     position: relative;
-    
+
  }
 
 aside imag {
        width: 200px;
        height: auto;
+
+}
+
+aside h2 {
+    position: absolute;
+    top: 67px;
+    left: 150;
 
 }
   
