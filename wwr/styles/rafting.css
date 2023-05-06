@@ -45,6 +45,7 @@
     .info {
         position: relative;
         text-align: center;
+        float: right;
     }
 
     h2 {
@@ -71,5 +72,9 @@
 
  }
 
- 
+ aside {
+    width: 20em;
+    text-align: center;
+    position: relative;
+ }
   
