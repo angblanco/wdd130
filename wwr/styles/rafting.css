@@ -50,8 +50,8 @@
 
     h2 {
         position: absolute;
-        top: 140px;
-        left: 0;
+        top: 50px;
+        left: 120;
         right: 0;
         color: #ffff;
     }
@@ -77,4 +77,8 @@
     text-align: center;
     position: relative;
  }
+
+aside imag {
+       width: ;
+}
   
