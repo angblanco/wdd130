@@ -1,9 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
-* {
-    margin: 100;
-    padding: 100;
-}
+
 
 :root {
     --primary-color:var(--primary-color) #2f52e0;
