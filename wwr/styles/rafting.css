@@ -69,25 +69,7 @@
     }
 
 
- aside {
-    width: 20em;
-    text-align: center;
-    position: relative;
 
- }
-
-aside imag {
-       width: 200px;
-       height: auto;
-
-}
-
-aside h2 {
-    position: absolute;
-    top: 140px;
-    left: 150px;
-
-}
   
 /* Centered text */
 .centered {
