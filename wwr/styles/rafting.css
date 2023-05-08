@@ -33,7 +33,7 @@
       }
 
       body {
-        max-width: 1200px; /* Adjust the value as needed */
+        width: 450px; 
         margin: 0 auto; /* Center the content horizontally */
       }
 
