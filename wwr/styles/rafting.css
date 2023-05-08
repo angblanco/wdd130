@@ -18,63 +18,22 @@
 
     }
 
-    body {
-        font-family: var(--paragraph-font);
-        max-width: 960px;
-        padding: 20px;
-        margin: 0 auto;
-    }
-    
-    nav {
-        background-color: steelblue;
-        padding: 10px;
+    h1, h2, h3, h4, h5, h6 {
+        color: var(--primary-color);
+        /* Add any other heading styles as needed */
+      }
+      
+      p {
+        color: var(--text-color);
+        /* Add any other paragraph styles as needed */
+      }
 
-    }
-
-    nav {
-        display: block;
-        color: var(--nav-link-color);
+      footer a {
         text-decoration: none;
-        padding: 1rem;
-    }
+      }
 
-   
-    .info {
-        position: relative;
-        text-align: center;
-        float: right;
-    }
+      body {
+        max-width: 1200px; /* Adjust the value as needed */
+        margin: 0 auto; /* Center the content horizontally */
+      }
 
-    h1 {
-        position: absolute;  
-    }
-
-    h2 {
-        position: absolute;
-        top: 140px;
-        left: 0px;
-        right: 0px;
-        color: #ffff;
-    }
-
-    .hero {
-        margin: 10px auto;
-        position: relative;
-
-    }
-    .hero  img {
-        display: block;
-        width: 100%;
-        height: auto;
-    }
-
-
-
-  
-/* Centered text */
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
