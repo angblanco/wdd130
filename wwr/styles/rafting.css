@@ -20,12 +20,12 @@
 
     h1, h2, h3, h4, h5, h6 {
         color: var(--primary-color);
-        /* Add any other heading styles as needed */
+        
       }
       
       p {
         color: var(--text-color);
-        /* Add any other paragraph styles as needed */
+       
       }
 
       footer a {
@@ -34,7 +34,7 @@
 
       body {
         width: 450px; 
-        margin: 0 auto; /* Center the content horizontally */
+        margin: 0 auto;
       }
 
       .info {
