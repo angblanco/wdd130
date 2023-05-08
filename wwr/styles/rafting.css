@@ -37,14 +37,22 @@
         margin: 0 auto; /* Center the content horizontally */
       }
 
+      .info {
+        position: relative;
+      }
+
+    h2 {
+        position: absolute;
+        top: 140;
+    }
       .hero {
         position: relative;
         height: 300px; /* Adjust the height according to your needs */
       }
       
       .hero img {
-        width: 100%;
         height: auto;
+        width: 100%;
         display: block;
       }
       
