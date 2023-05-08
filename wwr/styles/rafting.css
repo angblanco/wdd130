@@ -45,6 +45,8 @@
     h2 {
         position: absolute;
         top: 140;
+        left: 0;
+        right: 0;
     }
       .hero {
         position: relative;
