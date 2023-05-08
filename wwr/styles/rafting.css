@@ -47,7 +47,7 @@
     }
       .hero {
         position: relative;
-        height: 300px; /* Adjust the height according to your needs */
+        height: 300px;
       }
       
       .hero img {
@@ -61,7 +61,7 @@
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        color: white; /* Set the color of the heading */
+        color: white;
       }
       
       article {
@@ -69,9 +69,9 @@
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        background-color: rgba(0, 0, 0, 0.7); /* Set the background color with opacity */
-        padding: 10px; /* Adjust the padding as needed */
-        color: white; /* Set the color of the article content */
+        background-color: rgba(0, 0, 0, 0.7); /
+        padding: 10px;
+        color: white;
       }
       
       article img {
