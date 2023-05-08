@@ -64,13 +64,10 @@
         position: absolute;
         top: 0%;
         left: 0%;
-        transform: translate(-50%, -50%);
-        background-color: rgba(0, 0, 0, 0.7); /
-        padding: 10px;
-        color: white;
+      
       }
       
       article img {
         float: right;
-        margin-left: 10px; /* Adjust the margin as needed */
+        
       }
