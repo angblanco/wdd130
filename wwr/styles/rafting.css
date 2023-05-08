@@ -37,3 +37,36 @@
         margin: 0 auto; /* Center the content horizontally */
       }
 
+      .hero {
+        position: relative;
+        height: 300px; /* Adjust the height according to your needs */
+      }
+      
+      .hero img {
+        width: 100%;
+        height: auto;
+        display: block;
+      }
+      
+      h1 {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white; /* Set the color of the heading */
+      }
+      
+      article {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: rgba(0, 0, 0, 0.7); /* Set the background color with opacity */
+        padding: 10px; /* Adjust the padding as needed */
+        color: white; /* Set the color of the article content */
+      }
+      
+      article img {
+        float: right;
+        margin-left: 10px; /* Adjust the margin as needed */
+      }
