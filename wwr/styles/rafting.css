@@ -70,3 +70,16 @@
     font-size: 24px; /* Adjust the font size as needed */
   }  
      
+  article {
+    background-color: rgba(0, 0, 0, 0.7); /* Set the background color with opacity */
+    padding: 10px; /* Adjust the padding as needed */
+    color: white; /* Set the color of the article content */
+    margin-top: 10px; /* Add margin to create spacing between the h1 and article */
+  }
+
+  article img {
+    float: right;
+    width: 150px; /* Adjust the width of the image as needed */
+    height: auto;
+    margin-left: 10px; /* Adjust the margin as needed */
+  }
