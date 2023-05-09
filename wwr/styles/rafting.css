@@ -83,4 +83,6 @@
     width: auto; /* Ajusta el ancho automáticamente */
     max-height: 150px; /* Ajusta la altura máxima de la imagen según tus necesidades */
     margin-left: 10px; /* Ajusta el margen según tus necesidades */
+    max-width: calc(100% - 10px); /* Resta el margen izquierdo del contenedor */
+    object-fit: contain; /* Ajusta el comportamiento de ajuste de la imagen */
   }
