@@ -66,5 +66,7 @@
     color: white; /* Set the color of the text */
   }
 
-      
+  h1 {
+    font-size: 24px; /* Adjust the font size as needed */
+  }  
      
