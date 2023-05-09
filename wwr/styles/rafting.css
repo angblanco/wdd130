@@ -80,7 +80,7 @@
 
   article img {
     float: right;
-    width: 30px; /* Adjust the width of the image as needed */
+    width: 150px; /* Adjust the width of the image as needed */
     height: auto;
     margin-left: 0; /* Adjust the margin as needed */
   }
