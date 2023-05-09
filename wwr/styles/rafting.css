@@ -55,7 +55,7 @@
         width: 100%;
         height: auto;
         display: block;
-        max-height: 100%; /* Limit the height of the image within the hero container */
+        max-height: 80%; /* Limit the height of the image within the hero container */
       }
 
       
