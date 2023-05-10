@@ -59,11 +59,10 @@
       }
       
       .hero img {
+        display: block;
         width: 100%;
         height: auto;
-        display: block;
-        max-height: 50%; /* Limit the height of the image within the hero container */
-        object-fit: cover;
+        
       }
 
       
