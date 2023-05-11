@@ -74,10 +74,6 @@ aside img {
     grid-row: 1/2;
 }
 
-element.style {
-
-}
-
 aside h2 {
     position: absolute;
     top: 85px;
@@ -88,6 +84,10 @@ aside h2 {
 margin: 0;
 padding: 0;
 box-sizing: border-box;
+}
+
+body {
+    display: block;
 }
 
 h2 {
@@ -113,6 +113,8 @@ Inherited from body
 body {
     font-family: Roboto, Arial, sans-serif;
 }
+
+
 
 footer {
     margin-top: 1rem;
