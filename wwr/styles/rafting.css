@@ -3,10 +3,11 @@
 
 
 :root {
-    --primary-color:var(--primary-color) #2f52e0;
-    --secondary-color:var(--secondary-color) #ff715b;
-    --acent1-color:var(--acent1-color) #f9cb40;
-    --acent2-color:var(--acent2-color) #bced09;
+
+ --primary-color: #2F52E0;
+--secondary-color: #FF715B;
+--accent1-color: #F9CB40;
+--accent2-color: #BCED09;
 
     --heading-font: Roboto, serif;
     --paragraph-font: Roboto, sans-serif;
