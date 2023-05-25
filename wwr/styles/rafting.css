@@ -4,10 +4,10 @@
 
 :root {
 
- --primary-color: #2F52E0;
---secondary-color: #FF715B;
---accent1-color: #F9CB40;
---accent2-color: #BCED09;
+    --border-top-color: #2F52E0;
+    --secondary-color: #FF715B;
+    --accent1-color: #F9CB40;
+    --accent2-color: #BCED09;
 
     --heading-font: Roboto, serif;
     --paragraph-font: Roboto, sans-serif;
