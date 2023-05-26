@@ -90,21 +90,6 @@ margin-inline-end: 0px;
 font-weight: bold;
 }
 
-Inherited from aside.box
-.box {
-margin: 1rem;
-border: 1px solid rgba (0,0,0,.1);
-padding: 1rem;
-background-color: #eee;
-color: #000;
-}
-
-Inherited from body
-body {
-    font-family: Roboto, Arial, sans-serif;
-}
-
-
 
 footer {
     margin-top: 1rem;
