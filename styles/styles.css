@@ -56,8 +56,11 @@ p {
 }
 
 aside {
-    width: 20em;
-   text-align: center;
+    width: 20rem;
+   position: relative;
+   grid-column: 1/2;
+   grid-row: 1/2;
+
 }
 
 aside img {
